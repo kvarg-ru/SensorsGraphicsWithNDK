@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SensorsGraphicsWithNDK</string>
+    <string name="accelerometer_plot_title">Accelerometer values</string>
+    <string name="gyroscope_plot_title">Gyroscope values</string>
+    <string name="seconds">Seconds</string>
+    <string name="acceleration_axis">Acceleration values</string>
+    <string name="angular_rotation">Angular rotation</string>
+</resources>
